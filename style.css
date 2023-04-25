@@ -1,0 +1,37 @@
+/* CSS Code */
+.heading {
+    width: 100%;
+    text-align: left;
+}
+
+.heading h3 {
+    display: inline;
+}
+
+.heading button {
+    float: right;
+    border: 1px dotted white;
+}
+
+#start, #status, #restart {
+    font-size: 22px;
+}
+
+.modal-header h4 {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.modal-dialog {
+    width: 90%;
+    font-size: 18px;
+}
+
+#copy_right_footer {
+    background-color: blue;
+    box-shadow: 5px 5px 10px grey;
+    bottom: 0;
+    width: 100%;
+    font-size: 15px;
+    position: fixed;
+}
